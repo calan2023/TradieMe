@@ -5,6 +5,8 @@ This is a website that allows renovators to manage their own home renovations.
 Records can be made that contain all details about their ongoing renovations, including the rooms being renovated and jobs that need to be done.
 These records can be shared so renovators can share their progress on their renovations.
 Renovators can also post renovation jobs they are wanting help with, allowing tradies to find work.
+Tradies can search through all posted jobs to find one that fits their expertise and submit a quote of how much they are willing to complete the job for.
+Renovators have the ability to compare tradie statistics and reject tradies using a Tinder-style swiping feature that will help renovators quickly find the best tradie for their job.
 
 ## How to run locally
 ### 1 - Running the project
